@@ -161,4 +161,3 @@ services:
 - **Clean rebuild over incremental fixes:** when the broader stack (Portainer CSRF errors, Vaultwarden's HTTPS requirement for Web Crypto) hit multiple compounding issues at once, the stack was wiped and rebuilt one service at a time — Pi-hole first for DNS, then the rest — testing each before moving to the next.
 
 ---
-*Part of a broader homelab used to build practical IT/help desk and networking skills. See also: [Help-desk-homelab-Active-Directory-ServiceNow-ticketing](https://github.com/SreekrishnaSiddi/Help-desk-homelab-Active-Directory-ServiceNow-ticketing)*
